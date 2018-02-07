@@ -1,4 +1,5 @@
 class QuizHomepageController < ApplicationController
+end 
 
-  def index
+def index
 end
